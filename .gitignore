@@ -142,3 +142,5 @@ notebook/templates/*.html
 # pixi environments
 .pixi
 *.egg-info
+
+anaconda_projects/
